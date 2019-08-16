@@ -1,19 +1,3 @@
-Enable desktop notifications for Gmail.
-   OK  No thanks
-
-2 of 1,348
-Linked List
-Inbox
-x
-
-kamal ares <kamalkannanares@gmail.com>
-Attachments
-Thu, Aug 15, 10:02 PM (8 hours ago)
-to me
-
-
-Attachments area
-
 class Node:
     def __init__(self,x):
         self.data=x
